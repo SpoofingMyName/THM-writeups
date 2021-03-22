@@ -1,6 +1,6 @@
 # Common Linux Privilege Escalation
 
-** INCOMPLETE - will update this eventually**
+**INCOMPLETE - will update this eventually**
 
 ```
 
